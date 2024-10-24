@@ -12,7 +12,7 @@
             Console.Write("Enter a Plural noun: ");
             pluralNoun = Console.ReadLine();
 
-            Console.Write("Enter the name of your favorite superstar: ");
+            Console.Write("Enter the name of your favorite Afro-superstar: ");
             superstar = Console.ReadLine(); 
              
             Console.WriteLine("Roses are " + color);
